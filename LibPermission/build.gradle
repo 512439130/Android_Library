@@ -1,0 +1,20 @@
+apply plugin: rootProject.ext.plugins.library
+
+android {
+    compileSdkVersion rootProject.ext.android.compileSdkVersion
+    buildToolsVersion rootProject.ext.android.buildToolsVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.android.minSdkVersion
+        targetSdkVersion rootProject.ext.android.targetSdkVersion
+    }
+
+    resourcePrefix 'permission_'
+}
+
+dependencies {
+    compile rootProject.ext.dependencies.appCompat
+    compile rootProject.ext.dependencies.alertDialog
+}
+
+apply from: "https://github.com/yanzhenjie/bintray/blob/master/maven.gradle?raw=true"

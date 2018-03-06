@@ -1,0 +1,202 @@
+[
+    {
+        "outputFile": "E:\\workspace\\android_workspace\\luofushan\\pulltorefresh\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "E:\\workspace\\android_workspace\\luofushan\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 72,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endColumn": 76,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "E:\\workspace\\android_workspace\\luofushan\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 76,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 60,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "E:\\workspace\\android_workspace\\luofushan\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 66,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "E:\\workspace\\android_workspace\\luofushan\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 66,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 64,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "E:\\workspace\\android_workspace\\luofushan\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 64,
+                        "endOffset": 176
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\workspace\\android_workspace\\Luofushan\\pulltorefresh\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "D:\\workspace\\android_workspace\\Luofushan\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 72,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endColumn": 76,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "D:\\workspace\\android_workspace\\Luofushan\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 76,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 60,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "D:\\workspace\\android_workspace\\Luofushan\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 66,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "D:\\workspace\\android_workspace\\Luofushan\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 66,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 64,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "D:\\workspace\\android_workspace\\Luofushan\\pulltorefresh\\src\\main\\res\\values-zh\\pull_refresh_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 64,
+                        "endOffset": 176
+                    }
+                }
+            }
+        ]
+    }
+]

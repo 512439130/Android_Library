@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:3:11-56
+		INJECTED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:6:5-73
+	android:targetSdkVersion
+		ADDED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:6:42-71
+	android:minSdkVersion
+		ADDED from E:\workspace\android_workspace\profession_network\LibSubSamplingScaleImageView\src\main\AndroidManifest.xml:6:15-41

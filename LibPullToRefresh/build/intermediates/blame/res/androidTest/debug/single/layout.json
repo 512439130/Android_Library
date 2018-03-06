@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\workspace\\android_workspace\\Luofushan\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\workspace\\android_workspace\\Luofushan\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android_workspace\\Luofushan\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\workspace\\android_workspace\\Luofushan\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\workspace\\android_workspace\\luofushan\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\workspace\\android_workspace\\luofushan\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\android_workspace\\Luofushan\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yanzhenjie_item_default.xml",
+        "source": "D:\\workspace\\android_workspace\\Luofushan\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\layout\\yanzhenjie_item_default.xml"
+    },
+    {
+        "merged": "E:\\workspace\\android_workspace\\luofushan\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\workspace\\android_workspace\\luofushan\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\workspace\\android_workspace\\luofushan\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\yanzhenjie_item_default.xml",
+        "source": "E:\\workspace\\android_workspace\\luofushan\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\layout\\yanzhenjie_item_default.xml"
+    }
+]

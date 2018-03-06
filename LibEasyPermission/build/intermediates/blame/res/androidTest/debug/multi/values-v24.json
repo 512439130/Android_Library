@@ -1,0 +1,164 @@
+[
+    {
+        "outputFile": "E:\\workspace\\android_workspace\\luofushan\\easypermissionsLib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\d5a9922ba741fc5c144a8e9016ddd48791b8a363\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 63,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\d5a9922ba741fc5c144a8e9016ddd48791b8a363\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 63,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 68,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\d5a9922ba741fc5c144a8e9016ddd48791b8a363\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 68,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 69,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\d5a9922ba741fc5c144a8e9016ddd48791b8a363\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 69,
+                        "endOffset": 322
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\workspace\\android_workspace\\Luofushan\\easypermissionsLib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "C:\\Users\\SoMustYY\\.android\\build-cache\\3c986f7d8c401cabaf3efd2cbb28252f1383a9d8\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 63,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "C:\\Users\\SoMustYY\\.android\\build-cache\\3c986f7d8c401cabaf3efd2cbb28252f1383a9d8\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 63,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 68,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\SoMustYY\\.android\\build-cache\\3c986f7d8c401cabaf3efd2cbb28252f1383a9d8\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 68,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 69,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "C:\\Users\\SoMustYY\\.android\\build-cache\\3c986f7d8c401cabaf3efd2cbb28252f1383a9d8\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 69,
+                        "endOffset": 322
+                    }
+                }
+            }
+        ]
+    }
+]
